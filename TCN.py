@@ -187,8 +187,6 @@ def RMSE_error(model, dataset_loader):
 
     return RMSE
 
-def 
-
 if __name__ == '__main__':
 
     args.save = './TestingTCN'
